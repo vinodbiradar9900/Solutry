@@ -22,9 +22,10 @@
 	<sonar.password>admin</sonar.password>
   </properties> -->
   
-  <sonar.host.url>http://15.207.51.249:9000/</sonar.host.url>
-  <sonar.login>a7cb06da5777ed56216bae7b704b41b699352a36</sonar.login>
-  
+<!--  <sonar.host.url>http://15.207.51.249:9000/</sonar.host.url>
+  <sonar.login>a7cb06da5777ed56216bae7b704b41b699352a36</sonar.login> -->
+
+ 
   <build>
     <finalName>Solutry</finalName>
   </build>
